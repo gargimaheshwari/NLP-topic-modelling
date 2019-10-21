@@ -10,6 +10,6 @@ In the first notebook - sklearn, I use the Natural Language Processing (NLP) tec
 
 In the second notebook - gensim, I again use LDA, this time with CorehenceModel from python's <code>gensim</code> library to analyze machine learning topics in the NIPS papers dataset. The concept of topic coherence measure is used to find the optimal number of topics for the data. Finally, I use python's LDA visualization tools to display the results of a model with the aforementioned number of topics.
 
-![LDA Visualization](https://i.imgur.com/GuAiXBd.jpg)
+![LDA Visualization](https://i.imgur.com/0RlZb8F.jpg)
 
 Data taken from kaggle.com. Find the dataset [here](https://www.kaggle.com/benhamner/nips-papers) under papers.csv.
